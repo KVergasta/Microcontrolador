@@ -1,4 +1,12 @@
 
+## Informações
+Aluna: Kauane Vergasta Silva Rodrigues
+
+Semestre: 5º
+
+O objetivo sociocuminitário foi direcionado para uma dupla de empreendedores que comercializam picolé e bebidas.
+
+
 # Microcontrolador
 Projeto de extensão:
 
