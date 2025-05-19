@@ -6,6 +6,7 @@ Semestre: 5º
 
 O objetivo sociocuminitário foi direcionado para uma dupla de empreendedores que comercializam picolé e bebidas.
 
+Esse código usa um sensor DHT22 e um display LCD. Em casos mais avançados, é possível incluir Wi-Fi para enviar alertas via aplicativo.
 
 # Microcontrolador
 Projeto de extensão:
